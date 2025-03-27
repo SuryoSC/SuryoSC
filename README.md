@@ -19,6 +19,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryoSC&layout=compact&theme=dark)
 
-📌 **Repositories:** [your_github_username](https://github.com/SuryoSC)
+📌 **Repositories:** [SuryoSC](https://github.com/SuryoSC)
 
 💬 Feel free to connect and collaborate! 🚀
